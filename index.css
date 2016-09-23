@@ -1,0 +1,18 @@
+body{
+    background-color: #CCFFFF;
+}
+
+#header{
+    font-size: 5em;
+    color: #FF1493;
+    text-shadow: 2px 2px #ff0000;
+    text-align: center;
+}
+
+#cardText{
+    font-size: 2em;
+    text-shadow: 2px 2px #ff0000;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
